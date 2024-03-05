@@ -1,0 +1,50 @@
+body{
+	background: #cab9a7;
+	margin: 0;
+	padding: 0;
+}
+ 
+.calendar{
+    text-align: center;
+	margin: auto;
+	font-size: 20;
+	font-family:Verdana, Geneva, Tahoma, sans-serif;
+	margin: auto;
+	height: 25px;
+    
+}
+
+.Head{
+	margin-left: 25px;
+	text-align: center;
+	font-size: 30;
+}
+
+
+.th{
+
+	padding: 15px;
+	color: blueviolet;
+
+}
+
+.body2{
+	cursor: pointer;
+	
+}
+
+.Exit{
+	mix-blend-mode: multiply;
+}
+
+tr,th,td{
+	padding: 25px;
+}
+
+td{
+	background-color: #F7E7CE;
+}
+
+td:hover{
+	background-color: orange;
+}
